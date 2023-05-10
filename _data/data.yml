@@ -58,6 +58,18 @@ education:
         details: |
           Engineer in the specialty Information Systems and Technologies
 
+      - degree: Certificate of MBA
+        university: PWC (https://www.pwc.com)
+        time: 2021 - 2022
+        details: |
+          Master Business Associates Intensive Course
+
+      - degree: Domain Driven Design
+        university: Luxsoft 
+        time: 2019
+        details: |
+          Domain Driven Design offline course
+
 experiences:
     title: Experiences
     info:
@@ -92,40 +104,22 @@ experiences:
           Software for Avia Simulation Tests
 
 projects:
-    title: Projects
+    title: Side Projects
     intro: >
-      List of side projects
+
     assignments:
       - title: Vulners Scanner
         link: "https://play.google.com/store/apps/details?id=com.vulners"
         tagline: "Deprecated vulnerability scanner"
 
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
-    title: Publications
+    title: Public Activities
     intro: |
-        
+
     papers:
       - title: Qiwi Android Developer Days
         link: "https://www.youtube.com/watch?v=NvSvRdzu6H4"
+        authors: Organized and took a part as speaker in conference. Talk about Device Farm in Kubernetes.
 
 skills:
     title: Skills &amp; Proficiency
@@ -134,7 +128,7 @@ skills:
       - name: Kotlin & Java
         level: 90%
 
-      - name: Kubernetes
+      - name: DevOps (Kubernetes &amp; Co.)
         level: 50%
 
 footer: >
