@@ -10,10 +10,10 @@ sidebar:
     # Sidebar links
     email: qiwikarpov@gmail.com
     citizenship: Russian
-    website: arsentiykarpov.github.io/online-cv/
+    website: arsentiykarpov.github.io/
     linkedin: arsentiy-karpov-4171a859
     github: chijikpijik
-    telegram: techbitchs
+    # telegram: techbitchs
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -121,10 +121,10 @@ skills:
 
     toolset:
       - name: Kotlin & Java
-        level: 90%
+        level: 98%
 
       - name: DevOps (Kubernetes &amp; Co.)
-        level: 50%
+        level: 60%
 
 footer: >
     “Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.” (c) Brian Kernighan
