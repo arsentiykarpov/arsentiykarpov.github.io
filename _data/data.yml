@@ -39,7 +39,7 @@ career-profile:
     summary: |
       I bring 11 years of Android development experience, having journeyed from AsyncTask to Coroutines. 
       Notably, I undertook the task of translating a widely downloaded application, exceeding 50 million downloads on Google Play, transitioning it from Loaders to RxJava, and subsequently to Kotlin Multiplatform and Coroutines. I know how to work with legacy code :)
-      I have actively participated in several projects from scratch. Now I have actively engaged in the domains of DevOps and Full Stack development. 
+      I have actively participated in several projects from scratch. Now I have actively engaged in the domains of DevOps and full-stack development. 
 
 education:
     title: Education
