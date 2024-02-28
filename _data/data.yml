@@ -39,8 +39,7 @@ career-profile:
     summary: |
       I bring 11 years of Android development experience, having journeyed from AsyncTask to Coroutines. 
       Notably, I undertook the task of translating a widely downloaded application, exceeding 50 million downloads on Google Play, transitioning it from Loaders to RxJava, and subsequently to Kotlin Multiplatform and Coroutines. I know how to work with legacy code :)
-      I have actively participated in several projects from scratch. Unfortunately, some of these projects, such as Qiwi Investor and Sovest, were ultimately closed, while others did not come to fruition. Despite these challenges, these experiences have further honed my ability to adapt to evolving circumstances and effectively contribute to project success.
-      Additionally, I have demonstrated leadership skills as the leader of a small team since 2016, effectively guiding and coordinating efforts toward successful outcomes. In recent years, I have actively engaged in the domains of DevOps and Full Stack development.
+      I have actively participated in several projects from scratch. Now I have actively engaged in the domains of DevOps and Full Stack development. 
 
 education:
     title: Education
